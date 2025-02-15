@@ -4,7 +4,7 @@
 Codes will be released after the paper is accepted for publication.
 
 ### Quantitative comparison
-Quantitative comparison of our SSPFusion and 13 state-of-the-art methods on the MSRS, RoadScene and M3FD, respectively.
+Quantitative comparison of our MTFusion and 13 state-of-the-art methods on the MSRS, RoadScene and M3FD, respectively.
 
 
 <img src="AdditionResults.png" width="750" align=center />
