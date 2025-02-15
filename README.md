@@ -1,10 +1,9 @@
-# MTFusion
-MTFusion: A Dual-task-driven Mean Teacher Framework for Infrared and Visible Image Fusion
+# MTFusion: A Dual-task-driven Mean Teacher Framework for Infrared and Visible Image Fusion
 
-#### Code
+### Code
 Codes will be released after the paper is accepted for publication.
 
-#### Quantitative comparison
+### Quantitative comparison
 Quantitative comparison of our SSPFusion and 13 state-of-the-art methods on the MSRS, RoadScene and M3FD, respectively.
 
 
