@@ -14,20 +14,30 @@ Quantitative comparison of our MTFusion and 13 state-of-the-art methods on the M
 
 #### Qualitative comparison.
 
-Qualitative comparison of MTFusion with 13 state-of-the-art methods on the ``00634D" image pair from the MSRS
+MSRS 
+
 <img src="/Result/MSRS_Result1.jpg" width="700" align=center />
 <img src="/Result/MSRS_Result2.jpg" width="700" align=center />
 
-Qualitative comparison of 13 state-of-the-art methods on the ``FILR\_00977" image pair from the RoaScene     .
+RoaScene
+
 <img src="/Result/RoadScene_Result1.jpg" width="700" align=center />
 
-Qualitative comparison of MTFusion with 13 state-of-the-art methods on the ``02816" image pair from the M3FD      .
+M3FD
+
 <img src="/Result/M3FD_Result1.jpg" width="700" align=center />
 
 #### Quantitative comparison.
 
+
+MSRS 
+
 <img src="/Result/MSRS_Result3.jpg" width="700" align=center />
 
+RoaScene
+
 <img src="/Result/RoadScene_Result2.jpg" width="700" align=center />
+
+M3FD
 
 <img src="/Result/M3FD_Result2.jpg" width="700" align=center />
