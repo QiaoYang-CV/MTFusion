@@ -16,16 +16,16 @@ Quantitative comparison of our MTFusion and 13 state-of-the-art methods on the M
 
 <img src="/Result/MSRS_Result1.jpg" width="700" align=center />
 
-<img src="MSRS_Result2.jpg" width="700" align=center />
+<img src="/Result/MSRS_Result2.jpg" width="700" align=center />
 
-<img src="RoadScene_Result1.jpg" width="700" align=center />
+<img src="/Result/RoadScene_Result1.jpg" width="700" align=center />
 
-<img src="M3FD_Result1.jpg" width="700" align=center />
+<img src="/Result/M3FD_Result1.jpg" width="700" align=center />
 
 #### Quantitative comparison.
 
-<img src="MSRS_Result3.jpg" width="700" align=center />
+<img src="/Result/MSRS_Result3.jpg" width="700" align=center />
 
-<img src="RoadScene_Result2.jpg" width="700" align=center />
+<img src="/Result/RoadScene_Result2.jpg" width="700" align=center />
 
-<img src="M3FD_Result2.jpg" width="700" align=center />
+<img src="/Result/M3FD_Result2.jpg" width="700" align=center />
