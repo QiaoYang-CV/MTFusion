@@ -43,4 +43,4 @@ M3FD
 
 #### Beyond Infrared and Visible Image Fusion
 
-<img src="/Result/Byond_Result.jpg" width="350" align=center />
+<img src="/Result/Byond_Result.jpg" width="500" align=center />
